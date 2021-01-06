@@ -18,7 +18,7 @@
     "@firebase/app": "^0.6.5",
     "@types/hoist-non-react-statics": "^3.3.1",
     "@types/lodash": "^4.14.162",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "firebase": "^7.15.1",
     "hoist-non-react-statics": "^3.3.0",
     "lodash": "^4.17.20",
